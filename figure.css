@@ -162,6 +162,7 @@ h1 {
     font-size: 18px;
     animation: theater 5s infinite linear;
     color: #3498db;
+    z-index: 2;
 }
 
 @keyframes theater {
